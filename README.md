@@ -1,19 +1,12 @@
-# lmnop
+# lmnop is an online guitar store 
 
-## Project setup
-```
-npm install
-```
+# Resources
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://isotropic.co/tool/hex-color-to-css-filter/
+Hex Color To CSS Filter Converter
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://akveo.github.io/eva-icons/#/?searchKey=line&type=outline
+Free SVG icons
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://coolors.co/palettes/trending
+Color Palettes
